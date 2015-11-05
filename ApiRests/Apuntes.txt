@@ -1,0 +1,10 @@
+﻿
+El controlador es el fragmento de software al que tu estas llamando
+Él solo sabra lo que tu estas haciendo... (insercion, borrado...)
+
+Lo primero que hay que hacer para hacer una api:
+
+-Crear un modelo de datos.
+-Compilar el modelo CTRL + SHIFT + B
+-Importante los controladores siempre tienen que acabar en CONTROLLER
+-Todos los controladores tiene que ser hijos de APICONTROLLER

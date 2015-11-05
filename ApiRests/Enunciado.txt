@@ -1,0 +1,3 @@
+﻿
+Metodo para consultar curso, nombre y profesor
+

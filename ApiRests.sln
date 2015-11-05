@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRests", "ApiRests\ApiRests.csproj", "{949A73C3-BFB5-4AF0-863C-DEC3A90764F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiRepositorio", "ApiRepositorio\ApiRepositorio.csproj", "{4F1FDDB5-F75F-4412-8427-8C92FF30A9AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{7CE8A2DD-5E68-47F1-AB38-CBCD8C61BFE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{949A73C3-BFB5-4AF0-863C-DEC3A90764F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{949A73C3-BFB5-4AF0-863C-DEC3A90764F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{949A73C3-BFB5-4AF0-863C-DEC3A90764F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{949A73C3-BFB5-4AF0-863C-DEC3A90764F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F1FDDB5-F75F-4412-8427-8C92FF30A9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1FDDB5-F75F-4412-8427-8C92FF30A9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1FDDB5-F75F-4412-8427-8C92FF30A9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1FDDB5-F75F-4412-8427-8C92FF30A9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CE8A2DD-5E68-47F1-AB38-CBCD8C61BFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CE8A2DD-5E68-47F1-AB38-CBCD8C61BFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CE8A2DD-5E68-47F1-AB38-CBCD8C61BFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CE8A2DD-5E68-47F1-AB38-CBCD8C61BFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
