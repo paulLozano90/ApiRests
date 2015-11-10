@@ -1,0 +1,20 @@
+﻿
+1.Tablas:
+Categoria
+Producto
+Etiqueta
+Almacenes
+
+En cada categoria almaceno el nombre
+En cada producto el nombre del fabricante, nombre, precio coste, 
+precio venta, categoria y si queremos una breve descripcion.
+Cada producto tiene n etiquetas. Una etiqueta se puede
+asignar a n productos.
+Cada almacen tiene ciudad y codigo postal.Cada uno tiene
+un stock determinado. Un producto aparece en varios almacenes
+
+2.Repositorio
+3.WebApi + Unity
+4.Controlador de productos
+-Consulta de productos
+-Alta, baja y modificacion de productos.
